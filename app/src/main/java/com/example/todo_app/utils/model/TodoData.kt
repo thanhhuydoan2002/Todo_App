@@ -1,4 +1,2 @@
 package com.example.todo_app.utils.model
-
-class TodoData {
-}
+data class ToDoData(var taskId:String, var task:String)
