@@ -6,4 +6,5 @@
     <string name="have_account">Đã có tài khoản? </string>
     <string name="enter_your_email">Nhập Email của bạn</string>
     <string name="re_enter_your_pass">Xác nhận lại mật khẩu của bạn</string>
+    <string name="dont_have_account">Chưa có tài khoản? </string>
 </resources>
